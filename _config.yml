@@ -23,7 +23,7 @@ sass:
 # Theme settings
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
-Customizations
+# Customizations
 your_name: Chris Vos
 email: Chris@lucrasoft.nl
 
