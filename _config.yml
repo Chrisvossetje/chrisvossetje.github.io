@@ -10,7 +10,7 @@ title: Chris Vos
 description: > # this means to ignore newlines until "repository:"
   A minimalistic theme for Jekyll, based on hack.css
 repository: https://https://github.com/Chrisvossetje/chrisvossetje.github.io
-baseurl: /  # the subpath of your site, e.g. /blog
+baseurl: /personal-site  # the subpath of your site, e.g. /blog
 url: https://chrisvossetje.github.io/  # the base hostname & protocol for your site
 
 # Build settings
