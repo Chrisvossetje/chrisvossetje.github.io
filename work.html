@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: work
 ---
 
 <section>
@@ -8,9 +9,9 @@ layout: default
 </section>
 
 <section>
-  {% for work in site.work %}
+  {% for work in site.works %}
   <!-- {% assign nth = forloop.index0 | modulo:2 %} -->
-    <!-- <div class="media t-hackcss-media"> -->
+    <div class="media t-hackcss-media">
 <!-- 
       {% if nth == 0 %}
       <div class="t-hackcss-media-shift media-left">
@@ -42,7 +43,7 @@ layout: default
              title="{{ post.title }}" />
       </div>
       {% endif %} -->
-    <!-- </div> -->
-{% endfor %}
+    </div>
+  {% endfor %}
 
 </section>
