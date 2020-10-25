@@ -34,10 +34,9 @@ navigation:
     url: /docs
   - text: Examples
     url: /examples
-  - text: Work
-    - text: Spotify
-      url: /work/spotify.md
-
+  - text: Spotify
+    url: /work/spotify.md
+  
 projects:
   - name: git-secret
     description: A bash-tool to store your private data inside a git repository.
