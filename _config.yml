@@ -20,8 +20,10 @@ markdown: kramdown
 sass:
   style: compressed
 
+include: ['_pages']
+
 # Theme settings
-theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: dark  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: Chris Vos
@@ -35,7 +37,7 @@ navigation:
   - text: Examples
     url: /examples
   - text: Spotify
-    url: /work/spotify.md
+    url: /spotify.md
   
 projects:
   - name: git-secret
