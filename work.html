@@ -7,7 +7,8 @@ layout: default
   <p>Here you can find my work</p>
 </section>
 
-{% for work in site.work %}
+<section>
+  {% for work in site.work %}
   <!-- {% assign nth = forloop.index0 | modulo:2 %} -->
     <!-- <div class="media t-hackcss-media"> -->
 <!-- 
@@ -42,3 +43,5 @@ layout: default
       {% endif %} -->
     <!-- </div> -->
 {% endfor %}
+
+</section>
