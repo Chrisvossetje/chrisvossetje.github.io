@@ -23,19 +23,14 @@ permalink: work
       <p style="margin:0rem">------------------------------------------------------------------------</p>
       <!-- <p>{{work.year}}</p> -->
       <div class="media-body">
-        <div class="media-heading">
-          <span><p>{{ work.year }} &raquo; <br>
-             {{work.title}} &raquo; 
-            </p>
-            
+        
+          <p>{{ work.year }} &raquo; {{work.title}}</p>
              {% if work.spotify-url %}
               <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             {% endif %}
-          </span>
-        </div>
-        <div class="media-content">
+        
           {{ work.content }}
-        </div>
+        
       </div>
 
       <!-- {% if nth == 1 %}
