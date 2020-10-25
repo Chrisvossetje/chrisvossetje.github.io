@@ -10,16 +10,16 @@ layout: default
 <section>
   {% for work in site.posts %}
   <div class="media t-hackcss-media">
-    <p >------------------------------------------------------------------------</p>
+    <p style="margin-top:0px;margin-bottom:1rem;">------------------------------------------------------------------------</p>
       <div class="media-body">
         <div class="media-heading">
-          <p>{{ work.year }} &raquo; {{work.title}}</p>
+          <p style="margin-top:0px;margin-bottom:1rem;">{{ work.year }} &raquo; {{work.title}}</p>
           {% if work.spotify-url %}
             <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           {% endif %}
         </div>
         <div class="media-content">
-          <p >
+          <p style="margin-top:0px;margin-bottom:1rem;">
             {{ work.content }}
           </p>
         </div>
