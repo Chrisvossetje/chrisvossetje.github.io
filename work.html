@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: work
 ---
 
 <section>
@@ -10,24 +9,14 @@ permalink: work
 
 <section>
   {% for work in site.posts %}
-  <!-- {% assign nth = forloop.index0 | modulo:2 %} -->
-    <div class="media t-hackcss-media">
-<!-- 
-      {% if nth == 0 %}
-      <div class="t-hackcss-media-shift media-left">
-        <img class="t-hackcss-media-image"
-             src="{{ post.image_preview }}" alt="{{ post.title }}"
-             title="{{ post.title }}" />
-      </div>
-      {% endif %} -->
-      <!-- <p style="margin:0rem">------------------------------------------------------------------------</p> -->
-      <!-- <p>{{work.year}}</p> -->
+  <div class="media t-hackcss-media">
+    <p style="margin:0rem">------------------------------------------------------------------------</p>
       <div class="media-body">
         
           <span>
             <p>{{ work.year }} &raquo; {{work.title}}</p>
           </span>
-             {% if work.spotify-url %}
+            {% if work.spotify-url %}
               <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             {% endif %}
           <p>
@@ -35,15 +24,6 @@ permalink: work
           </p>
         
       </div>
-
-      <!-- {% if nth == 1 %}
-      <div class="t-hackcss-media-shift media-right">
-        <img class="t-hackcss-media-image"
-             src="{{ post.image_preview }}" alt="{{ post.title }}"
-             title="{{ post.title }}" />
-      </div>
-      {% endif %} -->
-    </div>
+  </div>
   {% endfor %}
-
 </section>
