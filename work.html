@@ -20,7 +20,7 @@ permalink: work
              title="{{ post.title }}" />
       </div>
       {% endif %} -->
-      <p>------------------------------------------------------------------------</p>
+      <p style="margin:0rem">------------------------------------------------------------------------</p>
       <!-- <p>{{work.year}}</p> -->
       <div class="media-body">
         <div class="media-heading">
@@ -29,7 +29,7 @@ permalink: work
             </p>
             
              {% if work.spotify-url %}
-              <iframe class="t-hackcss-media-shift media-right" src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+              <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             {% endif %}
           </span>
         </div>
