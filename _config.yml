@@ -23,10 +23,6 @@ sass:
 # Theme settings
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
-# Customizations
-your_name: Chris Vos
-email: Chris@lucrasoft.nl
-
 navigation:
   - text: Home
     url: /
@@ -36,6 +32,8 @@ navigation:
     url: /examples
   - text: Work
     url: /work
+  - text: Bitfox
+    url: https://bitfox-git.github.io/usbmidi-config/
   
 projects:
   - name: git-secret
