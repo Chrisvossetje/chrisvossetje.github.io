@@ -12,6 +12,9 @@ description: >
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://chrisvossetje.github.io/  # the base hostname & protocol for your site
 
+include:
+  -_works
+
 # Build settings
 markdown: kramdown
 
