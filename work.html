@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<section>
+  <h1>Work</h1>
+  <p>Here you can find my work</p>
+</section>
+
+{% for work in site.work %}
+  <!-- {% assign nth = forloop.index0 | modulo:2 %} -->
+    <!-- <div class="media t-hackcss-media"> -->
+<!-- 
+      {% if nth == 0 %}
+      <div class="t-hackcss-media-shift media-left">
+        <img class="t-hackcss-media-image"
+             src="{{ post.image_preview }}" alt="{{ post.title }}"
+             title="{{ post.title }}" />
+      </div>
+      {% endif %} -->
+      <p>----------------------------------------</p>
+      <div class="media-body">
+        <div class="media-heading">
+          <span>{{ work.year }} &raquo;
+            <p>{{work.title}}</p>
+            {% if work.spotify-url %}
+              <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            {% endif %}
+          </span>
+        </div>
+        <div class="media-content">
+          {{ work.content }}
+        </div>
+      </div>
+
+      <!-- {% if nth == 1 %}
+      <div class="t-hackcss-media-shift media-right">
+        <img class="t-hackcss-media-image"
+             src="{{ post.image_preview }}" alt="{{ post.title }}"
+             title="{{ post.title }}" />
+      </div>
+      {% endif %} -->
+    <!-- </div> -->
+{% endfor %}
