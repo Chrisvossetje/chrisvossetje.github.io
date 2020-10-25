@@ -25,10 +25,6 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 navigation:
   - text: Home
     url: /
-  - text: Docs
-    url: /docs
-  - text: Examples
-    url: /examples
   - text: Work
     url: /work
   - text: Bitfox
