@@ -29,6 +29,8 @@ navigation:
     url: /portofolio
   - text: Live
     url: /live
+  - text: Teaching
+    url: /teaching
   - text: Other 
     url: /electronics
   
