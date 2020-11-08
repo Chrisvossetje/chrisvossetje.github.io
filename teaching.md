@@ -11,3 +11,6 @@ We work on the subjects which fit your goals and don't get distracted by the nor
 I can and have taught in the following subjects:
 
 Bass Guitar, Composition, Electronics (Live and Studio), Music Production, Mixing
+
+
+Send me an email if you're interested in lessons !
