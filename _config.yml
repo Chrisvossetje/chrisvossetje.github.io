@@ -25,10 +25,12 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 navigation:
   - text: Home
     url: /
-  - text: Work
-    url: /work
-  - text: Bitfox
-    url: https://bitfox-git.github.io/usbmidi-config/
+  - text: Portofolio
+    url: /portofolio
+  - text: Live
+    url: /live
+  - text: Other 
+    url: /electronics
   
 projects:
   - name: git-secret
