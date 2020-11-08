@@ -16,7 +16,7 @@ layout: default
 
     <div class="t-hackcss-media-shift media-left">
       {% if work.spotify-url %}
-        <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="250" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       {% endif %}
     </div>
 
@@ -24,10 +24,9 @@ layout: default
         <!-- <div class="media-heading">
         </div> -->
         <div class="media-content">
-          <p style="margin-top:0px;margin-bottom:1rem;"> {{ work.year }} &raquo; {{work.artist}} - {{work.title}}</p>
-          <p style="margin-top:0px;margin-bottom:1rem;">
-            {{work.roles}}
-          </p>
+          <h2 style="margin-top:0px;margin-bottom:1rem;">{{work.artist}} &raquo; {{work.title}}</h2>
+          <p style="margin-top:0px;margin-bottom:1rem;">{{ work.type }} &raquo; {{work.year}}</p>
+          <p style="margin-top:0px;margin-bottom:1rem;">{{work.roles}}</p>
         </div>
       </div>
   </div>
