@@ -12,21 +12,24 @@ layout: default
 
   {% for work in site.categories.discography %}
   <div class="media t-hackcss-media">
-    <hr/>
-
+    
     <div class="media-left">
       {% if work.spotify-url %}
-        <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="250" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe src="https://open.spotify.com/embed/{{ work.spotify-url }}" width="250" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       {% endif %}
     </div>
-
+    
     <div class="media-body">
-        <div class="media-content">
-          <h2 style="margin-top:0px;margin-bottom:0.2rem;">{{work.artist}} - {{work.title}}</h2>
-          <i style="margin-top:0px;margin-bottom:0.2rem;">( {{ work.type }} &raquo; {{work.year}} )</i>
-          <p style="margin-top:0px;margin-bottom:0.2rem;">{{work.roles}}</p>
-        </div>
+      <div class="media-content">
+        <h2 style="margin-top:0px;margin-bottom:0.2rem;">{{work.artist}} - {{work.title}}</h2>
+        <i style="margin-top:0px;margin-bottom:0.2rem;">( {{ work.type }} &raquo; {{work.year}} )</i>
+        <p style="margin-top:0px;margin-bottom:0.2rem;">{{work.roles}}</p>
       </div>
+    </div>
+    
+    {% if forloop.last == false %}
+      <hr/>
+    {% endif %}
   </div>
   {% endfor %}
 </section>

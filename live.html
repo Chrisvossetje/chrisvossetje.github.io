@@ -11,14 +11,15 @@ layout: default
 
   {% for work in site.categories.live %}
   <div class="media t-hackcss-media">
-    <hr/>
-
     <div class="media-body">
-        <div class="media-content">
-          <h2 style="margin-top:0px;margin-bottom:0.2rem;">{{work.year}} &raquo; {{work.artist}}</h2>
-          <p style="margin-top:0px;margin-bottom:0.2rem;">{{work.content}}</p>
-        </div>
+      <div class="media-content">
+        <h2 style="margin-top:0px;margin-bottom:0.2rem;">{{work.year}} &raquo; {{work.artist}}</h2>
+        <p style="margin-top:0px;margin-bottom:0.2rem;">{{work.content}}</p>
       </div>
+    </div>
+    {% if forloop.last == false %}
+    <hr/>
+    {% endif %}
   </div>
   {% endfor %}
 </section>
