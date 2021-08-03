@@ -32,7 +32,7 @@ navigation:
   - text: Teaching
     url: /teaching
   - text: Other 
-    url: /electronics
+    url: /other
 
 # Plugins
 gems:
