@@ -1,6 +1,6 @@
 ---
 layout: default
-artist: Jasja
+artist: jasja
 title: In De Zomertijd
 year: 2021
 type: Single

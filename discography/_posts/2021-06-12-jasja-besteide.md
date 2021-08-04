@@ -1,6 +1,6 @@
 ---
 layout: default
-artist: Jasja
+artist: jasja
 title: Beste Ide
 year: 2021
 type: Single
