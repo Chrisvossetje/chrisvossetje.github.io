@@ -3,7 +3,7 @@ layout: default
 artist: Lief Dagboek
 year: 2020-Now
 ---
-28 Augustus 2018 - RoodNoot,
+28 Augustus 2018 - RoodNoot,  
 1 September 2018 - SWAG,  
 27 December 2018 - TivoliRaboOpenStage,  
 9 Maart 2019 - Vondelbunker Amsterdam,  
@@ -16,4 +16,4 @@ year: 2020-Now
 31 Augustus 2019 - SWAG,  
 23 November 2019 - SingleRelease in Stathe,  
 24 Januari 2020 - Clit City,  
-4 Juli 2020 - P60 Quarantaine Sessies
+4 Juli 2020 - P60 Quarantaine Sessies  
