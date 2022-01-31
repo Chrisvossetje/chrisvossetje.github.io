@@ -3,7 +3,7 @@ layout: default
 artist: Lief Dagboek
 year: 2020-Now
 ---
-28 Augustus 2018 - RoodNoot,  
+28 Augustus 2018 - RoodNoot,
 1 September 2018 - SWAG,  
 27 December 2018 - TivoliRaboOpenStage,  
 9 Maart 2019 - Vondelbunker Amsterdam,  
