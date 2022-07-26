@@ -25,8 +25,8 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 navigation:
   - text: Home
     url: /
-  - text: Kris
-    url: /
+  - text: kris
+    url: /kris
   - text: Discography
     url: /discography
   - text: Live
