@@ -5,5 +5,6 @@ title: In De Zomertijd
 year: 2021
 type: Single
 roles: Production, Mixing
-spotify-url: track/5MIAIijOHyYuROW6MiK9Ez
+bandcamp-url: https://jasja.bandcamp.com/track/in-de-zomertijd
+bandcamp-id: 2852938825
 ---

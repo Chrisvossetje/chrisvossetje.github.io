@@ -3,14 +3,15 @@ layout: default
 ---
 
 <section>
-  <h1>Discography</h1>
+  <h1>Kris</h1>
   <br/>
+kris is my personal project
 </section>
 
 <section>
 
 
-  {% for work in site.categories.discography %}
+  {% for work in site.categories.kris %}
   <div class="media t-hackcss-media">
     
     <div class="media-left">
@@ -19,11 +20,8 @@ layout: default
       {% endif %}
       {% if work.youtube-url %}
       <iframe width="250" height="120" src="https://www.youtube-nocookie.com/embed/{{ work.youtube-url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
-      {% if work.bandcamp-url %}
-      <iframe style="border: 0; width: 170px; height: 170px;" src="https://bandcamp.com/EmbeddedPlayer/track={{bandcamp.id}}/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless>
-        <a href="{{ work.bandcamp-url }}">{{work.artist}} - {{work.title}}</a></iframe>
       {% endif %}
+
     </div>
     
     <div class="media-body">

@@ -8,7 +8,7 @@
 # Site settings
 title: Chris Vos
 description: > 
-  The portofolio website of Chris Vos, displaying all 
+  The portofolio website of Chris Vos
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://chrisvos.net/  # the base hostname & protocol for your site
 
