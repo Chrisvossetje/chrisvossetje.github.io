@@ -21,7 +21,7 @@ layout: default
       <iframe width="250" height="120" src="https://www.youtube-nocookie.com/embed/{{ work.youtube-url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       {% endif %}
       {% if work.bandcamp-url %}
-      <iframe style="border: 0; width: 170px; height: 170px;" src="https://bandcamp.com/EmbeddedPlayer/track={{work.bandcamp-id}}/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless>
+      <iframe style="border: 0; width: 120px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/{{work.bandcamp-id}}/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless>
         <a href="{{ work.bandcamp-url }}">{{work.artist}} by {{work.title}}</a></iframe>
         <!-- <iframe style="border: 0; width: 170px; height: 170px;" src="https://bandcamp.com/EmbeddedPlayer/album=3972232297/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://jasja.bandcamp.com/album/album-1">Album 1 by jasja</a></iframe> -->
       {% endif %}
