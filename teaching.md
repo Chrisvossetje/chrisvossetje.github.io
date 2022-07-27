@@ -4,13 +4,13 @@ layout: default
 
 # teaching
 
-Next to creating music i also teach music.
-In my teaching i look at what the individual needs.
-We work on the subjects which fit your goals and don't get distracted by the norm.
+next to creating music i also teach music.
+in my teaching i look at what the individual needs.
+we work on the subjects which fit your goals and don't get distracted by the norm.
 
-I can and have taught in the following subjects:
+i can and have taught in the following subjects:
 
-Bass Guitar, Composition, Electronics (Live and Studio), Music Production, Mixing
+bass Guitar, composition, electronics (Live and Studio), music Production, mixing
 
 
-Send me an email if you're interested in lessons !
+send me an email if you're interested in lessons !
