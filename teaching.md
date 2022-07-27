@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Teaching
+# teaching
 
 Next to creating music i also teach music.
 In my teaching i look at what the individual needs.

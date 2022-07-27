@@ -23,17 +23,17 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 navigation:
-  - text: Home
+  - text: home
     url: /
   - text: kris
     url: /kris
-  - text: Discography
+  - text: discography
     url: /discography
-  - text: Live
+  - text: live
     url: /live
-  - text: Teaching
+  - text: teaching
     url: /teaching
-  - text: Other 
+  - text: other 
     url: /other
 
 # Plugins
