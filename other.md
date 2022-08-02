@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# other Work
+# other stuff
 
 here you can find some of my projects outside of music.
 computer science / electronics / math / art

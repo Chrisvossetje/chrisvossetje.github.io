@@ -33,7 +33,7 @@ navigation:
     url: /live
   - text: teaching
     url: /teaching
-  - text: other 
+  - text: other stuff
     url: /other
 
 # Plugins
