@@ -7,6 +7,9 @@ layout: default
 here you can find some of my projects outside of music.
 computer science / electronics / math / art
 
+<hr/>
+
+from 2021-now i have been studying mathmatics and computer science at the [uu](https://www.uu.nl).
 
 <hr/>
 

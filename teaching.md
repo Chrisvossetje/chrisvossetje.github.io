@@ -10,7 +10,7 @@ we work on the subjects which fit your goals and don't get distracted by the nor
 
 i can and have taught in the following subjects:
 
-bass Guitar, composition, electronics (Live and Studio), music Production, mixing
+bass guitar, composition, electronics (Live and Studio), music Production, mixing
 
 
 send me an email if you're interested in lessons !
