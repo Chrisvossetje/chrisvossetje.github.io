@@ -1,9 +1,15 @@
 #### joe made this: http://goel.io/joe
 
+.bundle/
+
 #####=== Jekyll ===#####
 
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
 
 #####=== Sass ===#####
 

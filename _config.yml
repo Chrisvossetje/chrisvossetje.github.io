@@ -8,7 +8,7 @@
 # Site settings
 title: Chris Vos
 description: > 
-  The portofolio website of Chris Vos
+  The portfolio website of Chris Vos
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://chrisvos.net/  # the base hostname & protocol for your site
 
@@ -25,17 +25,17 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 navigation:
   - text: home
     url: /
-  - text: kris
-    url: /kris
+  - text: math
+    url: /math
+  - text: music
+    url: /music
   - text: discography
     url: /discography
   - text: live
     url: /live
-  - text: teaching
-    url: /teaching
-  - text: other stuff
-    url: /other
+  - text: projects
+    url: /projects
 
 # Plugins
-gems:
+plugins:
   - jekyll-seo-tag
