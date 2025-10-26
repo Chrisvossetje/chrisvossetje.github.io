@@ -1,10 +1,13 @@
 ---
 layout: default
+title: Projects Portfolio
+description: Chris Vos's portfolio of projects in mathematics, music technology, and software development including Lumus Instruments, Eurorack modules, and mobile apps.
+keywords: portfolio, projects, Lumus Instruments, Eurorack, modular synthesis, software development, Amsterdam, mobile apps
 ---
 
 # Projects
 
-This is a collection of some bigger projects i worked on in math, music and more.
+This is a collection of some bigger projects outside math and music.
 
 <hr/>
 

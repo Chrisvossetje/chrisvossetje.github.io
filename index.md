@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Chris Vos - Mathematics & Music
+description: Mathematician and Student at Utrecht University specializing in (unstable, synthetic, computational) homotopy theory, and (pop, electronic) music production.
+keywords: Chris Vos, Utrecht University, mathematics, homotopy theory, music production
 ---
 
 # Chris Vos

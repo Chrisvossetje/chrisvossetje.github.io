@@ -39,6 +39,14 @@ $on-palm:          768px;
         "highlight"
 ;
 
+.hack, .hack blockquote, .hack code, .hack em, .hack h1, .hack h2, .hack h3, .hack h4, .hack h5, .hack h6, .hack strong {
+    font-size: 1.05rem;
+}
+
+.hack h1, .hack h2, .hack h3, .hack h4, .hack h5, .hack h6 {
+    font-size: 1.1rem;
+}
+
 .container {
   max-width: 90rem;
 }

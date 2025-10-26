@@ -8,7 +8,7 @@
 # Site settings
 title: Chris Vos
 description: > 
-  The portfolio website of Chris Vos
+  Chris Vos - Mathematician, student at Utrecht University specializing in (unstable, synethetic, computational) homotopy theory and music producer making electronic and pop music.
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://chrisvos.net/  # the base hostname & protocol for your site
 
@@ -29,13 +29,10 @@ navigation:
     url: /math
   - text: music
     url: /music
-  - text: discography
-    url: /discography
-  - text: live
-    url: /live
   - text: projects
     url: /projects
 
 # Plugins
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
