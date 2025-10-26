@@ -7,9 +7,7 @@ keywords: music production, electronic music, industrial rock, bass guitar, synt
 
 # Music
 
-If one would say that music has three big categories, namely Jazz, Classic and Pop, then my music would fall clearly into the category Pop.
-Furthermore, i make and listen to pop which incorporates elements of electronica, industrial rock and "singer songwriter".
-Some artists i value highly are Aphex Twin, Radiohead, Sufjan Stevens and Burial. I play bass guitar, produce music and can play synthesizers.
+I play bass guitar, produce music and can play synthesizers. I make and listen to pop which incorporates elements of electronica, industrial rock and "singer songwriter". Some artists i value highly are Aphex Twin, Radiohead, Sufjan Stevens and Burial.
 On this page i present (in reverse quasi-chronological order) my music career, accomponied by small stories explaining the context of those moments.
 
 For my full discography, go to this [link](./discography).  

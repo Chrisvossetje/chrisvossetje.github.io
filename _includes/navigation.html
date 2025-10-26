@@ -2,7 +2,7 @@
   <h2 class="t-hackcss-navigation-heading" style="font-size: 1.2rem;">menu</h2>
 
   <nav class="menu" role="menubar" style="font-size: 1.1rem; ">
-    {% assign url = page.url|remove:'index.html' %}
+    {% assign url = page.url | remove:'index.html' | remove:'.html' %}
     {% for link in site.navigation %}
       <a class="menu-item {% if url == link.url %}active{% endif %}"
         role="menuitem" href="{{ link.url | prepend: site.baseurl }}" title="{{ link.title }}" style="padding-top: 2px; padding-bottom: 2px">
