@@ -13,3 +13,9 @@ My interests are in music, math and computers.
 For my academic page, please follow this [link](./math).
 
 To find my music, go to [link](./music).
+
+
+
+<!-- <p style="text-align: center;"> -->
+<img src="me.jpg" alt="drawing" width="45%" style="border-radius: 0px;"/>
+<!-- </p> -->

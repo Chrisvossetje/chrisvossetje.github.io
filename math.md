@@ -13,7 +13,7 @@ I'm also interested in calculations and computations in homotopy theory, especia
 
 Some projects i have worked on:
 
-- A computer program which counts smooth homogeneous polynomials of degree n in $\mathbb{P}^2$ over $\mathbb{F}_p$. The program is split into two parts. [First](https://github.com/Jake-O-Dev/isopoly_generation) we act with $\mathbb{P}GL_3(\mathbb{F}_p)$ on all degree n homogeneous polynomials to find the isomorphism classes. In the [second](https://github.com/Chrisvossetje/smooth_polynomial_counter) part we check whether the polynomial is non singular for any (finite) field extension of $\mathbb{F}_p$. Because the degree of our polynomials is fixed, the order of the field extensions are also bounded. This project was done as a summer project in 2023 under supervision of Prof. Dr. C.F. Faber at Utrecht University.
+- A computer program which counts smooth homogeneous polynomials of degree n in $\mathbb{P}^2$ over $\mathbb{F}_p$. The program is split into two parts. [First](https://github.com/Jake-O-Dev/isopoly_generation) we act with $\mathbb{P}GL_3(\mathbb{F}_p)$ on all degree n homogeneous polynomials to find the isomorphism classes. In the [second](https://github.com/Chrisvossetje/smooth_polynomial_counter) part we check whether the polynomial is non singular for any (finite) field extension of $\mathbb{F}_p$. Because the degree of our polynomials is fixed, the order of the field extensions are also bounded. This project was done with Jacco Hijmans as a summer project in 2023 under supervision of Prof. Dr. C.F. Faber at Utrecht University.
 
 
 ### Visited
