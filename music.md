@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Music & Productions
+title: Music & Production
 description: Chris Vos's music career including electronic pop, industrial rock and indie. Producer, bassist, and synthesizer player with influences from Aphex Twin and Radiohead.
 keywords: music production, electronic music, industrial rock, bass guitar, synthesizer, Aphex Twin, Radiohead, Utrecht conservatory, HKU
 ---
@@ -17,14 +17,17 @@ For my full discography, go to this [link](./discography).
 
 ## Droomboter
 
+After writing the second EP Rebecca moved to Berlin and i cancelled the rent on the studio. For a time i focused mostly on my studies. Then my friend invited me to join his band called Droomboter. At first i was hesitant but after joining a rehearsal i was quickly convinced. Droomboter is the first band where i felt the message we have is truly new and important. For me Droomboter was the answer to the polarization i felt in both myself and the society. Being both playful, embracing the inner child but also acknowledging we are adults in an adult society, and honest towards our ideas and own feelings without imposing them on others. Droomboter was a band in which i could shut off the rigid and logical part of me and allow for friendship and fun to take over.
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2uIAmjUMrRujU0Mx6DbxmE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>
 
 ## Felicitas
 
-Near the end of my studies at the conservatory me and Rebecca Kreyenberg started working together more. Although we lived different lives, the way we looked at pop music and our sound in pop music made for a good combination. 
+Near the end of my studies at the conservatory me and Rebecca Kreyenberg started working together more. Although we lived different lives, the way we looked at pop music and our sound in pop music made for a good combination. After graduating (i also play in the [graduation show](https://www.youtube.com/watch?v=_VT6Fzlag-s&ab_channel=Felicitas) of Rebecca) we continued working together. At this time i also rented a music studio together with [Felbm](https://www.felbm.com/). I always had trouble going to the studio alone as i quickly felt tired and never truly had the urge to write my own music. Although it must be noted that after graduation i immediatly started studying math and computer science. During the sessions together with Rebecca i always felt way more at ease. Instead of having to worry about being completly artisticly responsible for the music i could focus more on just making the music. And in this freedom i feel the roles of producer (me) and writer (rebecca) also shifted to being more equal. The second EP which came from these sessions is (up until the point of writing this) the most authentic i have been on any music i have written. I can say with confidence that the artistic core which was lacking with the kris project has come life on this EP.
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0QV6M6eN5clZgE1OKHZBh2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>
 
