@@ -22,8 +22,9 @@ Some projects i have worked on:
 
 ## Talks
 
-- Seminar Algebraic Stacks 2025, Utrecht Univerisity
-- Seminar Sheaf Theory 2025, Utrecht Univerisity
+- PhD Seminar Cyclotomic Redshift 2026, Utrecht University
+- Master Seminar Algebraic Stacks 2025, Utrecht University
+- Master Seminar Sheaf Theory 2025, Utrecht University
 
 ## Visited
 

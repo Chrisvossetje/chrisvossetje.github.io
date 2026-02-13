@@ -19,7 +19,7 @@ For my full discography, go to this [link](./discography).
 
 After writing the second EP Rebecca moved to Berlin and i cancelled the rent on the studio. For a time i focused mostly on my studies. Then my friend invited me to join his band called Droomboter. At first i was hesitant but after joining a rehearsal i was quickly convinced. Droomboter is the first band where i felt the message we have is truly new and important. For me Droomboter was the answer to the polarization i felt in both myself and the society. Being both playful, embracing the inner child but also acknowledging we are adults in an adult society, and honest towards our ideas and own feelings without imposing them on others. Droomboter was a band in which i could shut off the rigid and logical part of me and allow for friendship and fun to take over.
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2uIAmjUMrRujU0Mx6DbxmE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2acgRfxwK9jsszXh4sYj1H?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>
 
