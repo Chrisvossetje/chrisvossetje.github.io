@@ -13,7 +13,9 @@ I'm also interested in calculations and computations in homotopy theory, especia
 
 Some projects i have worked on:
 
-- [E2 pages](./UASS.pdf) of the unstable adams spectral sequence for spheres. Made using the [sseq](https://github.com/SpectralSequences/sseq/) project, hopefully in the future this could also be done with my own ext resolver.
+-Computations of the synthetic EHP spectral sequence, in preparation with Itamar Mor. Preliminary charts can be found [here](https://www.chrisvos.net/synthetic-ehp/).
+
+-[E2 pages](./UASS.pdf) of the unstable adams spectral sequence for spheres. Made using the [sseq](https://github.com/SpectralSequences/sseq/) project, hopefully in the future this could also be done with my own ext resolver.
 
 - A [website](https://www.chrisvos.net/comodules-web/) and [algorithm](https://github.com/Chrisvossetje/comodules/) to calculate Ext over a k-coalgebra. This goal of the algorithm is to aid computations in algebraic topology. This project was done with Jacco Hijmans as a part of our bachelor thesis under supervision of Dr. G.S.K.S. Heuts and Christian Carrick at Utrecht University.
 

@@ -5,6 +5,10 @@ layout: default
 
 Here you can find all music i have worked on ordered by year. Links are attached to find the place at
 
+## 2026
+
+- [**Felicitas, kris - Milksoup**](https://open.spotify.com/album/4TwkGdGsVRoNP2Mav9reDZ?si=mCGXciZETGyVm0l1vTjH9g) <sub><sup>\ \ \[EP\] -- Writing, Composition, Production and Mixing</sup></sub> 
+
 ## 2025
 
 - [**Droomboter - Queen**](https://open.spotify.com/track/3R0FZnfiYULtZrwNU1XcE3?si=44c23027795e40fb) <sub><sup>\ \ \[Single\] -- Production and Bass</sup></sub> 
